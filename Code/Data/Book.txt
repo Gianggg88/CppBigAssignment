@@ -1,0 +1,30 @@
+"Toi thay hoa vang tren co xanh" "Nguyen Nhat Anh" "Van hoc" 45000 001 Tu1 0 0 0 0 
+"Cho toi mot ve di tuoi tho" "Nguyen Nhat Anh" "Van hoc" 50000 002 Tu2 0 0 0 0 
+"Quang gai trong toi" "Tran Dang Khoa" "Van hoc" 55000 003 Tu5 0 0 0 0 
+"Harry Potter va hon da phu thuy" "J.K. Rowling" "Ky ao" 70000 004 Tu3 0 0 0 0 
+"Harry Potter va phong bi mat" "J.K. Rowling" "Ky ao" 75000 005 Tu6 0 0 0 0 
+"Thuat dao tay" "Dale Carnegie" "Ky nang song" 80000 006 Tu1 0 0 0 0 
+"Dac nhan tam" "Dale Carnegie" "Ky nang song" 85000 007 Tu4 0 0 0 0 
+"Chiec thuyen ngoai xa" "Nguyen Minh Chau" "Van hoc" 40000 008 Tu3 0 0 0 0 
+"Mat biec" "Nguyen Nhat Anh" "Van hoc" 60000 009 Tu4 0 0 0 0 
+"Su tinh lang cua con cuu" "Thomas Harris" "Trinh tham" 65000 010 Tu3 0 0 0 0 
+"Sherlock Holmes: Bo truy tim" "Arthur Conan Doyle" "Trinh tham" 70000 011 Tu2 0 0 0 0 
+"Sherlock Holmes: Dau vet bi an" "Arthur Conan Doyle" "Trinh tham" 72000 012 Tu1 0 0 0 0 
+"Tam quoc dien nghia" "La Quan Trung" "Lich su" 100000 013 Tu2 0 0 0 0 
+"Thuy hu" "Thi Nai Am" "Lich su" 95000 014 Tu4 0 0 0 0 
+"Dat rung phuong Nam" "Doan Gioi" "Van hoc" 50000 015 Tu3 0 0 0 0 
+"Kinh doanh duoi 0 dong" "Adam Khoo" "Kinh te" 90000 016 Tu2 0 0 0 0 
+"Bi quyet tay trang" "Adam Khoo" "Kinh te" 85000 017 Tu5 0 0 0 0 
+"Giac mo My" "Nguyen Duy Cuong" "Ky nang song" 60000 018 Tu3 0 0 0 0 
+"Lich su Viet Nam" "Pham Xuan Bao" "Lich su" 75000 019 Tu2 0 0 0 0 
+"Thuong Nho Muoi Hai" "Vu Bang" "Van hoc" 65000 020 Tu1 0 0 0 0 
+"The Hobbit" "J.R.R. Tolkien" "Ky ao" 85000 021 Tu4 0 0 0 0 
+"The Lord of the Rings" "J.R.R. Tolkien" "Ky ao" 95000 022 Tu5 0 0 0 0 
+"An cung hoan chinh" "Marc Levy" "Tinh cam" 70000 023 Tu3 0 0 0 0 
+"Cho mot ngay con tro ve" "Guillaume Musso" "Tinh cam" 72000 024 Tu2 0 0 0 0 
+"Ong gia va bien ca" "Ernest Hemingway" "Van hoc" 50000 025 Tu5 0 0 0 0 
+"Tuyet trung vien ngoc" "Khong Tieu Thien" "Tinh cam" 68000 026 Tu3 0 0 0 0 
+"Tham tu lunge" "Keigo Higashino" "Trinh tham" 77000 027 Tu1 0 0 0 0 
+"Muon kiep nhan sinh" "Nguyen Phong" "Tam linh" 85000 028 Tu4 0 0 0 0 
+"Han hanh khach" "Vu Trong Phung" "Van hoc" 45000 029 Tu4 0 0 0 0 
+"The art of war" "Sun Tzu" "Lich su" 88000 030 Tu2 0 10 12 2024 
