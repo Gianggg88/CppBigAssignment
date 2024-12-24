@@ -204,9 +204,6 @@ int main() {
     cout << "Nam: " ; int Year ; cin >> Year ;
     date today(Day,Month,Year) ;
 
-    cout << _user_->Role << endl ;
-    cout << "Press any key to continue ..." ; _getch() ;
-
     system("cls") ;
     if(_user_->Role == "USER") use_as_user(books,_user_,today) ;
     if(_user_->Role == "LIBERIAN") use_as_liberian(books,users,today) ;
